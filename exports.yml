@@ -1,0 +1,7 @@
+nogrw0write:
+  attributes: 0
+  version:
+    major: 1
+    minor: 1
+  main:
+    start: nogrw0_module_start
