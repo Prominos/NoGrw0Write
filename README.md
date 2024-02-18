@@ -63,3 +63,4 @@ For this plugin to be effective you have to insert your game cart **AFTER** boot
 - Yifan Lu: For henkaku/taihen thank you!
 - SKGleba: For vitadeploy and a lot of other cool tools.
 - TheFloW: For vitashell and a lot of other cool tools.
+- The Vita SDK Team: Coding homebrew would be impossible without your great work. Thanks!
