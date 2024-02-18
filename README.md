@@ -47,6 +47,12 @@ ur0:tai/nogrw0write.skprx
 - Remove `ur0:tai/nogrw0write.skprx`
 - Reboot
 
+## Building
+
+- Make sure that you installed Vita SDK and that you have already set your `$VITASDK` environment variable.
+- run `./build.sh`
+- The output is in `./bin`
+
 ## Warning
 
 Disable this plugin when you want to play a game with a grw0: partition. If you try to play a grw0: game with this enabled the game will
